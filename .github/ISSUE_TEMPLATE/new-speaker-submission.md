@@ -3,7 +3,7 @@ name: New Speaker Submission
 about: Use this issue type to submit a session for review
 title: Speaker Submission
 labels: ''
-assignees: ''
+assignees: JeffRoSQL, Jhiggin
 
 ---
 
